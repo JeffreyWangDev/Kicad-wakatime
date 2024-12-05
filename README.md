@@ -1,6 +1,7 @@
 # Kicad-wakatime
 
 Kicad-wakatime tracks time for kicad with hacktime!
+![image](https://github.com/user-attachments/assets/db161c50-510a-4347-a7d6-4d39e0294b2b)
 
 ## Installation
 
